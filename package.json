@@ -12,6 +12,7 @@
     "socket.io": "*",
     "onoff": "*",
     "i2c":"*",
-    "spi":"*"
+    "spi":"*",
+    "underscore": ""
   }
 }
